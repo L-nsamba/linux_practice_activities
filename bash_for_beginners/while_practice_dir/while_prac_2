@@ -1,0 +1,9 @@
+#!/bin/bash
+
+while [ -f ~/test_file ]
+do
+	echo "As of $(date), The while practice exists."
+	sleep 5
+done
+
+	echo "As of $(date), The while practice no longer exists, exiting."

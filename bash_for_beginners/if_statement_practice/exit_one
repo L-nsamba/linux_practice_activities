@@ -1,0 +1,13 @@
+#!/bin/bash
+
+package=notexist
+
+sudo apt install -y $package >> package_install_results.log
+
+if [ $? -eq 0 ];then
+	echo "$package installation successful"
+	echo "The new command is avaliable here: "
+	which $package
+else
+	echo "Package failed to install" >> package_install_failure.log
+fi

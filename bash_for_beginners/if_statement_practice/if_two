@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ -d ~/if_statement_practice ];then
+	echo "The directory exists"
+else
+	echo "The directory does not exist"
+fi
