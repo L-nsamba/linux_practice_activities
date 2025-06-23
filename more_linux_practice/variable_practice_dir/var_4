@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+name="Leon Nsamba"
+now=$(date)
+
+echo "Hello $name"
+
+echo "The time and date are $now."
+
+
+echo "Your username is: $USER"

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+directory=/etghsfdc
+
+if [ -d $directory ]
+then
+	echo "Exists"
+	exit 0
+else
+	echo "Not Existant"
+	exit 1
+fi
+
+echo "The exit code for this script run is: $? "
+echo "You didnt see that statement"
+echo "This neither"

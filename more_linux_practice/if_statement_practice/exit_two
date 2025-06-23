@@ -1,0 +1,11 @@
+#!/bin/bash
+
+directory=/notexist
+
+if [ -d $directory ];then
+	echo "The directory exists"
+else
+	echo "The directory does not exist"
+fi
+
+echo "The exit code for this script run is $?"

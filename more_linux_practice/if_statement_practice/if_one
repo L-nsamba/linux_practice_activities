@@ -1,0 +1,11 @@
+#!/bin/bash
+
+mynum=30000
+
+
+if [ $mynum -gt 200 ]
+then
+	echo "The condition is true"
+else
+	echo "The variable does not equal 200"
+fi

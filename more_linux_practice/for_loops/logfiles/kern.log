@@ -1,0 +1,8 @@
+2025-06-08T13:13:26.904264+02:00 DESKTOP-JKJKTAM kernel: hv_balloon: Max. dynamic memory size: 3986 MB
+2025-06-08T13:22:41.203660+02:00 DESKTOP-JKJKTAM kernel: mini_init (141): drop_caches: 1
+2025-06-08T13:28:11.315907+02:00 DESKTOP-JKJKTAM kernel: TCP: eth0: Driver has suspect GRO implementation, TCP performance may be compromised.
+2025-06-08T13:29:11.623615+02:00 DESKTOP-JKJKTAM kernel: mini_init (141): drop_caches: 1
+2025-06-08T15:08:32.504644+02:00 DESKTOP-JKJKTAM kernel: mini_init (141): drop_caches: 1
+2025-06-08T15:12:32.583003+02:00 DESKTOP-JKJKTAM kernel: mini_init (141): drop_caches: 1
+2025-06-08T16:16:45.739731+02:00 DESKTOP-JKJKTAM kernel: mini_init (141): drop_caches: 1
+2025-06-08T16:17:45.952972+02:00 DESKTOP-JKJKTAM kernel: mini_init (141): drop_caches: 1
